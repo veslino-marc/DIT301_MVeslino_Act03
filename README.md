@@ -1,4 +1,4 @@
-# DIT2-1-MarcVeslino-Act03
+# DIT3-1-MarcVeslino-Act03
 
 1. What design choices did you make (colors, fonts, layout)?
    I used a blue button because it's a common color that users trust for actions, dark gray text for easy reading, and a light gray background to reduce eye strain. The name is 24sp and bold to make it stand out as the most important element, while the bio is 16sp for comfortable reading. The layout puts the profile picture centered at the top, followed by the name, then the bio in a clean white card, and finally the edit button at the bottom where it's easy to reach.
